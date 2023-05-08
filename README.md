@@ -6,7 +6,7 @@
   É possivel visualizar o conteúdo dos artistas em suas páginas ou fazer crud deles na página do admin.
   
   
-  *Sistema feito a algum tempo atrás e sem alterações desde finalizado, alterações tanto de funcionalidade quanto de design poderiam ser feitas com meu atual conhecimento*
+  *Desenvolvido a algum tempo atrás e sem alterações desde finalizado, alterações tanto de funcionalidade quanto de design poderiam ser feitas com meu atual conhecimento*
   
 ## Acessar Sistema
  * Colocar o banco de dados num servidor mySql.
