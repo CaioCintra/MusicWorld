@@ -1,8 +1,10 @@
 # MUSIC WORLD 	
 	
   ___Sistema desenvolvido para a matéria de Banco de Dados___
+  
   Sistema consiste em cadastrar artistas musicais e colocar informações sobre cada uma delas e assim separá-las de acordo com o estilo das músicas.
   É possivel visualizar o conteúdo dos artistas em suas páginas ou fazer crud deles na página do admin.
+  
   
   *Sistema feito a algum tempo atrás e sem alterações desde finalizado, alterações tanto de funcionalidade quanto de design poderiam ser feitas com meu atual conhecimento*
   
